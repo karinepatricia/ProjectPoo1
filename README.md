@@ -1,4 +1,4 @@
-# Escassez de água
+# EA
 
 
 
@@ -16,22 +16,15 @@ Em regiões onde a situação de falta de água já atinge índices críticos de
 De modo a reforçar o consumo de água através do ensino criaremos uma aplicação que registe o modo de cunsumo de água e como reduzir o mesmo, enviando notificações, caso o utilizador assim o permita, de modo a que as pessoas possam repensar as suas formas de uso de água, como por exemplo, fazendo a captação da água da chuva e o seu reaproveitamento, bem como a água que é utilizada para a lavagem das roupas, etc. Estas são algumas medidas que devem ser tomadas para que haja um consumo consciente e ecológico.\
 Baseamos o nosso projeto em apps de rastreamento do consumo de água como Virtual Water, Water1der e Water Use Calculator[2].
 
-
-## Casos de utilização:
-(substituir todo o texto pelo vosso) \
-Definir 3 casos de utilização (o primeiro deve ser core) cada um com o template mostrado em baixo. \
-Cada caso de uso tem um nome, uma descrição, pré-condições (pode-se omitir se vazio), passsos e pós-condições (pode-se omitir se vazio)
-
-
 ### Tracking
-**Descrição:** \
-<img src="ProjectPoo/Template1.png">\
-![](ProjectPoo/Template1.png)\
+<img src="Template1.png" width="600">
+
+**Descrição:**\
+Nesta janela o uilizador poderá ver um resumo dos seus registros diários, semanais ou mensais; bem como aqueles incompletos ou por preencher.
+
 **Pré-condições:**
-- Lihar à uma rede wi-fi ou dados móveis
-- Criar uma conta
-- Inserir o número de residentes no lote
-- Inserir o tamanho do lote
+- Ter uma ligação à rede wi-fi ou dados móveis.
+- Criar uma conta.
 
 **Passo a passo:**
 - Para uma primeira utilização a app fará algumas questões como o número de pessoas que residem no estabelicimento; a quantidade de aguá que foi consumida no mês anterior , algo que pode ser observado no contador de água ou na respectiva fatura; e como foi utilizada a água, por exemplo: regar, beber, limpar, etc. 
@@ -40,8 +33,44 @@ Cada caso de uso tem um nome, uma descrição, pré-condições (pode-se omitir 
 - O utilizador terá a opção de receber notifições para registar o modo de consumo diariamente, semanalmente, mensalmente, ou não recebé-las, de modo que seja preservada a sua privacidade.
 
 **Pós-condições:**
-- Guardar as informações inseridas 
+- Guardar as informações inseridas. 
 
+
+### Estatística
+<img src="Template2.png" width="600">
+
+**Descrição:**\
+Aqui será informado quanto o utilizador consumiu comparando aos dias anteriormente reportados e, se necessário, em que áreas deve diminuir esse consumo.
+
+**Pré-condições:**
+- O utilizador deve fazer pelo menos 7 registros do seu consumo ao fim de mês.
+
+**Passo a passo:**
+- O utilizador deverá selecionar o ícone de menu. 
+- No menu deverá selecionar a opção "Estatística".
+- Após um determinado número de registos, será aprentado um gráfico comparando o consumo de cada mês e por baixo será apresentada como foi feito o mesmo.
+
+**Pós-condições:**\
+NA. 
+
+### Soluções
+<img src="Template3.png" width="600">
+
+**Descrição:**\
+Após o utilizador ter selicionado a área em que pretende diminuir o seu consumo, será apresentada um conjunto de soluções que mais se adequem ao seu gosto.
+
+**Pré-condições:**
+- Ter uma ligação à rede wi-fi ou dados móveis.
+- O utilizador deve selecionar um problema para obter as soluções.
+- O utilizador deve fazer pelo menos 7 registros do seu consumo ao fim de mês. 
+
+**Passo a passo:**
+- Quando selecionado o problema serão expostas soluções.
+- Uma vez lida a informação o utilizador deverá selecionar se a informação foi ou não útil, opções estas que aparecem no final de cada solução.
+- Selecionada a opção as soluções adquar-se-ão cada vez mais ao dia-a-dia do utilizador.
+
+**Pós-condições:**\
+NA. 
 
 ## Referências:
 Sites  
