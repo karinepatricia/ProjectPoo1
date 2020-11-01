@@ -30,7 +30,7 @@ Nesta janela o utilizador poderá ver um resumo dos seus registros diários, sem
 - Para uma primeira utilização a app fará algumas questões como o número de pessoas que residem no estabelecimento; a quantidade de água que foi consumida no mês anterior , algo que pode ser observado no contador de água ou na respetiva fatura; e como foi utilizada a água, por exemplo: regar, beber, limpar, etc. 
 - 24 horas após cada registo a app questionará novamente como foi consumida a água naquele dia e quantia, caso o utilizador saiba.
 - Ao fim de cada mês a aplicação será capaz de fazer uma avaliação e determinar se o consumo de água é ou não excessivo e como o pode diminuir.
-- O utilizador terá a opção de receber lembretes para registar o modo de consumo diariamente, semanalmente, mensalmente, ou não recebê-las, de modo que seja preservada a sua privacidade.
+- O utilizador terá a opção de receber lembretes para registar o modo de consumo diariamente, semanalmente, mensalmente, ou não as receber, de modo que seja preservada a sua privacidade.
 
 **Pós-condições:**
 - Guardar as informações inseridas. 
@@ -62,7 +62,7 @@ Após o utilizador ter selecionado a área em que pretende diminuir o seu consum
 **Pré-condições:**
 - Ter uma ligação à rede WiFi ou dados móveis.
 - O utilizador deve selecionar um problema para obter as soluções.
-- O utilizador deve fazer pelo menos 7 registros do seu consumo ao fim de mês. 
+- O utilizador deve fazer pelo menos 7 registos do seu consumo ao fim de mês. 
 
 **Passo a passo:**
 - Quando selecionado o problema serão expostas soluções.
