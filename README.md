@@ -6,7 +6,7 @@
 
 | Número     | Nome         |
 |------------|--------------|
-|  20190904  | Naiara Cunha |
+|  20190871  | Victor Terente |
 |  20190952  | Karine Cardoso |
 
 ## Enquadramento
