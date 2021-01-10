@@ -18,7 +18,7 @@ De modo a reforçar o consumo de água através do ensino criaremos uma aplicaç
 Baseamos o nosso projeto em apps de rastreamento do consumo de água como Virtual Water, Water1der e Water Use Calculator[2].
 
 ### Tracking
-<img src="Template1.png" width="600">
+
 
 **Descrição:**\
 Nesta janela o utilizador poderá registar os seus consumos de agua, nas diversas categorias onde esta pode ser usada,o utilizador terá duas opções: um registo mais amplo(inserindo o numero de litros que gasta por mês) e um registo mais especificado(inserindo os numeros em 3 categorias uso pessoal,uso agricula e uso domestico, estas com subcategorias inclusas).
@@ -35,7 +35,7 @@ Nesta janela o utilizador poderá registar os seus consumos de agua, nas diversa
 
 
 ### Estatística
-<img src="Template2.png" width="600">
+
 
 **Descrição:**\
 Aqui será informado ao ultilizador se esta a consumir agua  em excesso, comparando o seu nivel de consumo com o suposto "normal".
@@ -51,7 +51,7 @@ Aqui será informado ao ultilizador se esta a consumir agua  em excesso, compara
 NA. 
 
 ### Soluções
-<img src="Template3.png" width="600">
+
 
 **Descrição:**\
 Após o utilizador ter selecionado a opção comparar, ira aparecer (caso este esteja a consumir agua em excesso) uma opção "soluções" onde será apresentada um conjunto de soluções predefenidas por nos.
