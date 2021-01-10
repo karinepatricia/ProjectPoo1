@@ -1,4 +1,5 @@
-# EA- Economização da água
+# EA- Rastreamento do consumo de agua
+
 
 
 
@@ -20,18 +21,15 @@ Baseamos o nosso projeto em apps de rastreamento do consumo de água como Virtua
 <img src="Template1.png" width="600">
 
 **Descrição:**\
-Nesta janela o utilizador poderá ver um resumo dos seus registros diários, semanais ou mensais; bem como aqueles incompletos ou por preencher.
-
+Nesta janela o utilizador poderá registar os seus consumos de agua, nas diversas categorias onde esta pode ser usada,o utilizador terá duas opções: um registo mais amplo(inserindo o numero de litros que gasta por mês) e um registo mais especificado(inserindo os numeros em 3 categorias uso pessoal,uso agricula e uso domestico, estas com subcategorias inclusas).
 **Pré-condições:**
 - Ter uma ligação à rede WiFi ou dados móveis.
 - Criar uma conta.
 
 **Passo a passo:**
-- Para uma primeira utilização a app fará algumas questões como o número de pessoas que residem no estabelecimento; a quantidade de água que foi consumida no mês anterior , algo que pode ser observado no contador de água ou na respetiva fatura; e como foi utilizada a água, por exemplo: regar, beber, limpar, etc. 
-- 24 horas após cada registo a app questionará novamente como foi consumida a água naquele dia e quantia, caso o utilizador saiba.
-- Ao fim de cada mês a aplicação será capaz de fazer uma avaliação e determinar se o consumo de água é ou não excessivo e como o pode diminuir.
-- O utilizador terá a opção de receber lembretes para registar o modo de consumo diariamente, semanalmente, mensalmente, ou não as receber, de modo que seja preservada a sua privacidade.
-
+- Para uma primeira utilização o utilizador precisaria de criar uma conta.
+- Selecionar a opção registos.
+- Preencher os campos predefenidos.
 **Pós-condições:**
 - Guardar as informações inseridas. 
 
@@ -40,15 +38,14 @@ Nesta janela o utilizador poderá ver um resumo dos seus registros diários, sem
 <img src="Template2.png" width="600">
 
 **Descrição:**\
-Aqui será informado quanto o utilizador consumiu comparando aos dias anteriormente reportados e, se necessário, em que áreas deve diminuir esse consumo.
+Aqui será informado ao ultilizador se esta a consumir agua  em excesso, comparando o seu nivel de consumo com o suposto "normal".
 
 **Pré-condições:**
-- O utilizador deve fazer pelo menos 7 registos do seu consumo ao fim de mês.
-
+- Estar logado.
+- Estar com acesso a internet.
 **Passo a passo:**
-- O utilizador deverá selecionar o ícone de menu. 
-- No menu deverá selecionar a opção "Estatística".
-- Após um determinado número de registos, será apresentado um gráfico comparando o consumo de cada mês e por baixo será apresentada como foi feito o mesmo.
+- O utilizador deverá ir ao registos. 
+- Nos registos selecionar a opção comparar.
 
 **Pós-condições:**\
 NA. 
@@ -57,17 +54,17 @@ NA.
 <img src="Template3.png" width="600">
 
 **Descrição:**\
-Após o utilizador ter selecionado a área em que pretende diminuir o seu consumo, será apresentada um conjunto de soluções que mais se adequem ao seu gosto.
+Após o utilizador ter selecionado a opção comparar, ira aparecer (caso este esteja a consumir agua em excesso) uma opção "soluções" onde será apresentada um conjunto de soluções predefenidas por nos.
 
 **Pré-condições:**
 - Ter uma ligação à rede WiFi ou dados móveis.
-- O utilizador deve selecionar um problema para obter as soluções.
-- O utilizador deve fazer pelo menos 7 registos do seu consumo ao fim de mês. 
+- Estar logado.
 
 **Passo a passo:**
-- Quando selecionado o problema serão expostas soluções.
-- Uma vez lida a informação o utilizador deverá selecionar se a informação foi ou não útil, opções estas que aparecem no final de cada solução.
-- Selecionada a opção as soluções adequar-se-ão cada vez mais ao dia-a-dia do utilizador.
+- Estar logado.
+- Ir a registos.
+- Ir a comparar.
+- Ir a soluções.
 
 **Pós-condições:**\
 NA. 
